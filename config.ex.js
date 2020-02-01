@@ -4,9 +4,9 @@ const botConfig = {
         port: 27017,
         name: 'test'
     },
-    token: '',
-    api_id: 0000,
-    api_hash: '0000',
+    token: '929425200:AAEiL-jyZ8wXs1QH4oNPA8HqPFGg1AeU-Nk',
+    api_id: 1159352,
+    api_hash: '3a8bb7fd3b22de7eeadf8cb32d23ac10',
     enableTdlib: false,
     github_token: '',
     dump_feature_enabled: false,
